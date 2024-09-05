@@ -13,4 +13,5 @@ Pengenalan git dan github
 --
 * Pengenalan perintah dasar git secara lebih dalam <br>
 * Latihan membuat repository baru <br>
-* Studi kasus
+* Studi kasus menambahkan branch ken penggabungan branch
+* Studi kasus fork repositori
